@@ -1,7 +1,0 @@
-com\hwua\service\StudentService.class
-com\hwua\exception\SysException.class
-com\hwua\service\impl\StudentServiceImpl.class
-com\hwua\mapper\UserMapper.class
-com\hwua\pojo\User.class
-com\hwua\controller\StudentController.class
-com\hwua\exception\AllExceptionHandler.class
